@@ -1,4 +1,4 @@
-<h1>Jogo da adivinhação</h1>
+<h1> Jogo da adivinhação <img src="https://imgur.com/j5y1sOX.gif" height="30px"></h1>
 
 ![image](https://github.com/Ytalo-Alves/JogoAdivinha--o/assets/54032146/cd3bb450-5e48-43ee-80db-c1b44376cb15) 
 ![image](https://github.com/Ytalo-Alves/JogoAdivinha--o/assets/54032146/7c06d99e-ddde-4f9d-9568-cd8057c8b4a4)
